@@ -1,2 +1,8 @@
 # EDyA_2
-Repositorio de la materia 'Estructura de datos y algoritmos 2'
+Create two news buttons handleSubstract and handleReset.
+
+Implement handleSubsstract by substracting from counter.
+
+Implement handleReset by setting counter as default value.
+
+Use useState hook to show working buttons into the web.
