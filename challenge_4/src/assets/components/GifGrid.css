@@ -1,0 +1,15 @@
+.gifs{
+    text-align: center;
+    color: #54595f;
+    font-style: oblique;
+}
+
+.category{
+    font-size: 200%;
+    color: rgb(196, 62, 62);
+    background-color: rgba(255, 91, 91, 0.589);
+    padding: 1%;
+    margin-bottom: 0.5%;
+    border-radius: 10px;
+}
+

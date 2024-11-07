@@ -1,0 +1,31 @@
+h1{
+  text-align: center;
+  color: #333;
+}
+
+button {
+  background-color: #6dc570; /* color de fondo */
+  color: #fff; /* color de texto */
+  padding: 10px 20px; /* espacio entre el borde y el contenido */
+  border: none; /* borde */
+  border-radius: 5px; /* esquinas redondeadas */
+  cursor: pointer; /* cursor en forma de mano */
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
+
+input[type="text"] {
+  width: 30%; /* ancho del input */
+  margin-left: 18%;
+  margin-right: 7%;
+  padding: 10px; /* espacio entre el borde y el contenido */
+  border: 1px solid #ccc; /* borde */
+  border-radius: 20px; /* esquinas redondeadas */
+}
+
+ol{
+  margin-left: 25%;
+  color: #333;
+}
